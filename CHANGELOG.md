@@ -4,12 +4,19 @@
 
 ## Unreleased
 
+(nothing yet)
+
+## 3.1.2
+
+_Automated release: version and notes generated from pull requests merged since 3.1.1._
+
 ### Changed
 
 - docs: SKILL.md restructured, no behavior change. Quick start, Workflow 0-8, ask/assume, the
   does-not-decide line, the report template and the request table stay; the long forms moved
   unchanged to new `references/flags.md`, `workflow.md`, `report.md`, `requests.md` and
   `timestamps.md` (shipped in the npm package). The description is three sentences.
+- Initial commit
 
 ## 3.1.1
 
